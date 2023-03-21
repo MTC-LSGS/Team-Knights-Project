@@ -222,3 +222,10 @@ button[type="submit"]:hover {
 .newsletter-label {
   color: #ffde59;
 }
+.member-info img {
+  max-width: 150px;
+  margin-bottom: 10px;
+}
+.team-members {
+  margin-bottom: 50px;
+}
