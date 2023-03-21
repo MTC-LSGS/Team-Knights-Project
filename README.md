@@ -1,2 +1,2 @@
 # Team-Knights
- Hackathone
+ Hack-Night Hackathone
